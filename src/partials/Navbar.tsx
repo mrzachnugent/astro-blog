@@ -15,6 +15,7 @@ const Navbar = () => (
             <img
               src="/assets/images/avatar.jpeg"
               className="mr-2 w-8 rounded-full"
+              alt="Avatar"
             />
           }
           name="Zach Nugent"
